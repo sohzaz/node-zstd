@@ -1,0 +1,17 @@
+{
+  "name": "node-zstd",
+  "version": "0.0.0",
+  "description": "Node.js interface to Zstandard (zstd)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zstd",
+    "zstandard"
+  ],
+  "author": {
+    "name": "Drien Breton"
+  },
+  "license": "ISC"
+}
